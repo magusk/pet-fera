@@ -1,0 +1,42 @@
+// Comentários que iniciam com '//' não fazem parte do padrão estabelecido
+
+
+// Cabeçalho de arquivo
+/**
+* @file Nome_do_arquivo
+* @brief Descrição da função
+* @author Alex Barbosa 
+* @author Francisco de Assis
+* @author Kaio Henrique
+* @since data da criação do arquivo
+* @date data da última modificação
+* @sa Classes relacionadas, classes filhas nesse caso.
+*/
+
+// Descrição de funções com retorno
+/**
+* @brief Funcao que calcula o fatorial de um numero
+* @param para cada parâmetro escreva o "Nome da variavel" seguida pela sua função separado por vírgula.
+exemplo: N número que será calculado o fatorial.
+* @return Fatorial do numero
+*/
+
+// Descrição de funções sem retorno
+/**
+* @brief Funcao que calcula o fatorial de um numero
+* @param para cada parâmetro escreva o "Nome da variavel" seguida pela sua função separado por vírgula.
+exemplo: N número que será calculado o fatorial.
+*/
+
+// Descrição de classes
+/**
+* @details DEscrição detalhada da classe.
+**/
+
+// Descrição dos membros da classe, quando necessário.
+/**
+* @brief Funcao que calcula o fatorial de um numero
+*/
+
+
+

@@ -1,0 +1,4 @@
+Id;Classe;Nome Científico;Sexo;Tamanho do Animal;Dieta;Veterinário Associado;Tratador Responsável;Nome de Batismo;Autorização do Ibama;País de Origem;Cidade de Origem;UF de Origem;Total de Mudas;Última Muda;Tamanho do Bico;Envergadura das Asas;Cor dos Pelos;Se é Venenoso;Tipo de Veneno
+AnfibioDomestico;0;Amphibia;Bufo lufo;M;1234;Moscas;1977691296;1977691296;Maicon;2;12/12/2019
+AnfibioExotico;1;Amphibia;Bufo Bufo;F;1235;Moscas;1977691296;1977691296;Larissa;12345;Jamaica;Caracas;2;12/12/2018
+AnfibioNativo;2;Amphibia;Lufo Lufo;M;1236;Larvas;1977691296;1977691296;Jordan;127765;RN;2;12/12/2017

@@ -1,0 +1,1 @@
+ID; Classe; Nome cientifico; Sexo; Tamanho; Dieta; Id do Veterinário; Id do Tratador; Nome de batismo; Autorização do Ibama; Pais de Origem; Cidade de Origem; UF de Origem; Total de mudas; Ultima Muda; Tamanho do Bico; Envergadura das Asas; Cor do pelo; Se é venenoso; Tipo de Veneno
